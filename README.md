@@ -6,4 +6,4 @@ Algorithms implementation
 * Shunting Yard
 * Sorting
    * Selection Sort
-   * Insertion Sort?
+   * Insertion Sort
