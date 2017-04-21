@@ -5,5 +5,6 @@ Algorithms implementation
 * Dynamic connectivity
 * Shunting Yard
 * Sorting
-   * Selection Sort
-   * Insertion Sort
+   * Selection sort
+   * Insertion sort
+   * Shell sort
