@@ -1,4 +1,9 @@
-# Algorithms impl in Python:
+# Data Structures and Algorithms:
+
+Data structures:
+* Linked list (insert, find, delete, count, print)
+* Binary Search Tree
+
 
 Algorithms implementation
 
