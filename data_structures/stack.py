@@ -1,5 +1,5 @@
 """
-Stack implemented with linked list
+Stack
 
 pop
 push

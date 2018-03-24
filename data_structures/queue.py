@@ -1,5 +1,5 @@
 """
-Queue with methods like enqueue and dequeue methods
+Queue with methods: enqueue and dequeue
 
 enqueue = O(1)
 dequeue = O(1)

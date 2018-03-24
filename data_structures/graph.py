@@ -1,6 +1,8 @@
 """
-directed and undirected graph
+Graph
+
 """
+
 # TODO: add tests
 
 
