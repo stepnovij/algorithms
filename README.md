@@ -1,8 +1,11 @@
 # Data Structures and Algorithms:
 
 Data structures:
-* Linked list (insert, find, delete, count, print)
+* Linked list
+* Stack
+* Queue
 * Binary Search Tree
+* Graph
 
 
 Algorithms implementation
